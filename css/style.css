@@ -12,6 +12,12 @@ a {
     text-align: center;
 }
 
+.grey-text {
+    color: #7b7b7b;
+    font-size: 18px;
+    font-weight: 600;
+}
+
 
 /* inizio customizzazione navbar */
 
@@ -92,4 +98,12 @@ header {
 .box-mini-games img {
     width: 100%;
     border-radius: 10px;
+}
+
+
+/* inizio sezione presentazione ps5 */
+
+#blue-text {
+    color: #0072ce;
+    font-weight: 600;
 }
