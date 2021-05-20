@@ -133,8 +133,15 @@ header {
 
 .img-gadget-container {
     width: 100%;
+    opacity: 0.5;
 }
 
 .img-gadget-container img {
     width: 100%;
+    height: 80%;
+}
+
+.img-gadget-container:hover {
+    border-bottom: 2px solid #0072ce;
+    opacity: 1;
 }
