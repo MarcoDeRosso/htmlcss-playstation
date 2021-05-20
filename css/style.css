@@ -1,0 +1,34 @@
+/* inizio customizzazione navbar */
+
+.black {
+    background-color: #000;
+}
+
+.sony-logo-container {
+    width: 100px;
+    margin: 12px 0;
+}
+
+.sony-logo-container img {
+    width: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link.grey-button {
+    color: #fff;
+    background-color: #363636;
+    padding: 8px;
+    border-radius: 20px;
+    width: 80px;
+    text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    margin: 0 5px;
+}
+
+.nav-link .fa-chevron-down {
+    color: #999;
+    margin-left: 2px;
+    font-size: 10px;
+}
