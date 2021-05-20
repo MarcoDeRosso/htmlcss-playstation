@@ -4,12 +4,19 @@ a {
     text-decoration: none;
 }
 
-.orange-button {
+.button-slm {
     color: #fff;
-    background-color: #cd3d0f;
     padding: 8px 16px;
     border-radius: 20px;
     text-align: center;
+}
+
+.orange {
+    background-color: #cd3d0f;
+}
+
+.blue {
+    background-color: #0072ce;
 }
 
 .grey-text {
@@ -92,7 +99,7 @@ header {
 }
 
 .box-mini-games:hover {
-    border-color: blue;
+    border-color: #0072ce;
 }
 
 .box-mini-games img {
@@ -106,4 +113,15 @@ header {
 #blue-text {
     color: #0072ce;
     font-weight: 600;
+}
+
+
+/* inizio sezione info ps5 */
+
+.img-ps5-info {
+    width: 100%;
+}
+
+.img-ps5-info img {
+    width: 100%;
 }
