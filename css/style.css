@@ -131,9 +131,12 @@ header {
 
 /* inizio sezione gadget */
 
+.Gaget {
+    opacity: 0.5;
+}
+
 .img-gadget-container {
     width: 100%;
-    opacity: 0.5;
 }
 
 .img-gadget-container img {
