@@ -9,6 +9,8 @@ a {
     padding: 8px 16px;
     border-radius: 20px;
     text-align: center;
+    cursor: pointer;
+    font-weight: 600;
 }
 
 .orange {
