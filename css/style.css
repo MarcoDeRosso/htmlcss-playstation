@@ -49,6 +49,14 @@ a:hover {
     font-weight: bold;
 }
 
+.img-container {
+    width: 100%;
+}
+
+.img-container img {
+    width: 100%;
+}
+
 
 /* inizio customizzazione navbar */
 
@@ -146,31 +154,11 @@ header {
 }
 
 
-/* inizio sezione info ps5 */
-
-.img-ps5-info {
-    width: 100%;
-}
-
-.img-ps5-info img {
-    width: 100%;
-}
-
-
 /* inizio sezione gadget */
 
 .gaget {
     opacity: 0.5;
     border-bottom: 2px solid #fff;
-}
-
-.img-gadget-container {
-    width: 100%;
-}
-
-.img-gadget-container img {
-    width: 100%;
-    height: 80%;
 }
 
 .gaget:hover {
@@ -217,22 +205,6 @@ header {
     font-weight: 600;
 }
 
-.img-psplus-container {
-    width: 70%;
-}
-
-.img-psplus-container img {
-    width: 100%;
-}
-
-.img-psplus-info {
-    width: 100%;
-}
-
-.img-psplus-info img {
-    width: 100%;
-}
-
 
 /* inizio sezione sconti ps store */
 
@@ -242,4 +214,11 @@ header {
 
 .img-sconti-container img {
     width: 100%;
+}
+
+
+/* sezione ps now */
+
+.dark-blue {
+    background-color: #161c3b;
 }
