@@ -4,6 +4,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #fff;
+}
+
 .button-slm {
     color: #fff;
     padding: 8px 16px;
@@ -133,6 +137,7 @@ header {
 
 .gaget {
     opacity: 0.5;
+    border-bottom: 2px solid #fff;
 }
 
 .img-gadget-container {
