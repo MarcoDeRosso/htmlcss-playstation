@@ -233,6 +233,7 @@ header {
 footer {
     background-color: #00439c;
     color: #fff;
+    font-weight: 600;
 }
 
 .footer-logo {
@@ -241,4 +242,16 @@ footer {
 
 .footer-logo img {
     width: 100%;
+}
+
+.menu-footer ul {
+    list-style: none;
+}
+
+.menu-footer li {
+    margin-top: 12px;
+}
+
+.menu-footer ul li a {
+    color: #fff;
 }
