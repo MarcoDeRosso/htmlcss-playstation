@@ -60,6 +60,7 @@ a:hover {
     position: sticky;
     top: 0;
     background-color: #fff;
+    z-index: 1001;
 }
 
 .sony-logo-container img {
