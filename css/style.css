@@ -163,3 +163,19 @@ header {
     background-size: cover;
     background-position: center;
 }
+
+
+/* inizio sezione nuove uscite */
+
+.dark-grey {
+    background-color: #1f1f1f;
+}
+
+.box-new-games {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.box-new-games img {
+    width: 100%;
+}
