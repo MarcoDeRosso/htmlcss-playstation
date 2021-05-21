@@ -25,6 +25,11 @@ a:hover {
     background-color: #2d64e6;
 }
 
+.lightgrey {
+    background-color: #d9dadc;
+    color: #0072ce;
+}
+
 .grey-text {
     color: #7b7b7b;
     font-size: 18px;
@@ -201,5 +206,29 @@ header {
 }
 
 .box-new-games img {
+    width: 100%;
+}
+
+
+/* sezione ps plus */
+
+.light-grey {
+    background-color: #bebcbb;
+    font-weight: 600;
+}
+
+.img-psplus-container {
+    width: 70%;
+}
+
+.img-psplus-container img {
+    width: 100%;
+}
+
+.img-psplus-info {
+    width: 100%;
+}
+
+.img-psplus-info img {
     width: 100%;
 }
