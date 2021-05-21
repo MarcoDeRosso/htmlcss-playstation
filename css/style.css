@@ -80,6 +80,18 @@ a:hover {
     margin: 0 5px;
 }
 
+.dropdown-toggle::after {
+    border: none;
+    font-family: "Font Awesome 5 Free";
+    content: "\f078";
+    display: inline-block;
+    padding-right: 3px;
+    vertical-align: middle;
+    font-weight: 900;
+    color: #999;
+    font-size: 10px;
+}
+
 .nav-link .fa-chevron-down {
     color: #999;
     margin-left: 2px;
