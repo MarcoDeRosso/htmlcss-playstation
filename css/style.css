@@ -170,12 +170,6 @@ header {
     opacity: 1;
 }
 
-@media only all and (max-width: 768px) {
-    .img-gadget-container h4 {
-        display: none;
-    }
-}
-
 
 /* inizio sezione jumbo-mid */
 
