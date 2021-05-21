@@ -255,3 +255,11 @@ footer {
 .menu-footer ul li a {
     color: #fff;
 }
+
+.footer-sie-logo {
+    width: 200px;
+}
+
+.footer-sie-logo img {
+    width: 100%;
+}
