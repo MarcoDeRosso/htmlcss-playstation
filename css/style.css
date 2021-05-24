@@ -97,9 +97,14 @@ a:hover {
     text-align: center;
 }
 
+.navbar-light .navbar-nav .nav-link.grey-button:hover {
+    color: #fff;
+}
+
 .navbar-light .navbar-nav .nav-link {
     color: #000;
     margin: 0 5px;
+    font-weight: 500;
 }
 
 .dropdown-toggle::after {
