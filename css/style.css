@@ -31,6 +31,10 @@ a:hover {
     color: #0072ce;
 }
 
+#blue:hover {
+    color: #0072ce;
+}
+
 .lightgrey.d {
     color: #000
 }
@@ -110,10 +114,22 @@ a:hover {
     font-size: 10px;
 }
 
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #2d64e6;
+}
+
+.dropdown-toggle:hover:after {
+    color: #2d64e6;
+}
+
 .nav-link .fa-chevron-down {
     color: #999;
     margin-left: 2px;
     font-size: 10px;
+}
+
+.navbar-nav i {
+    font-size: 20px;
 }
 
 
